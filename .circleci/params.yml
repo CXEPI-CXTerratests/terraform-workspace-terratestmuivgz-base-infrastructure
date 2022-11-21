@@ -1,6 +1,0 @@
-parameters:
-  jira_component_name: "terraform-aws-base-infrastructure"
-  lead_developer: "miwehrle"
-  team_manager: "vischint"
-  team_name: "CloudOps"
-  track_name: "SG1"
